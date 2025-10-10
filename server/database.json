@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "namachi@gmail.com",
+      "password": "$2b$08$k49hVwdjLg.6/ASbXQ1qnOSJaKpLmIfWTpGY8SD7OE6axRUEKKmRO"
+    },
+    {
+      "name": "Sivasurya R",
+      "email": "Sivasurya.root@gmail.com",
+      "password": "$2b$08$tSJluj9gOyXOhNatR4hW0uDw2ny5JMfNFklmY1eOhNT0IBmuyZFcS"
+    },
+    {
+      "name": "Ari",
+      "email": "ari12@hmail.com",
+      "password": "$2b$08$JAIlj/bRg5QfoWJBnIvWkOeweLTApUrSJkdeTV1shI6YzDz3ykbKG"
+    },
+    {
+      "name": "as",
+      "email": "Maxxx@gmail.com",
+      "password": "$2b$08$v7pWsiDoJHc8ul6DBtd5p.xBt1zRpOg.Emxr2ucVzL8jTwjJ3ce8S"
+    }
+  ]
+}
